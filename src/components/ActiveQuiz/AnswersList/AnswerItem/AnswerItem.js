@@ -1,4 +1,4 @@
-import React, { PureComponent } from "react";
+import React from "react";
 import classes from "./AnswerItem.css";
 
 const AnswerItem = props => {
